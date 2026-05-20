@@ -33,3 +33,4 @@ os.environ["TRANSFORMERS_CACHE"] = "D:/huggingface_cache/transformers"
 
 # Uapi工具服务 Token
 client = UapiClient("https://uapis.cn", token="your_uapi_token")
+```
