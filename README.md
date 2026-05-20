@@ -6,7 +6,7 @@
 
 百度网盘链接：https://pan.baidu.com/s/1GDmLuMpLV8VpLNShYhhZNw?pwd=gzwz
 
-下载完先修改yuzhiboyo.py的api_key，路径等配置，语音功能请看下文介绍，然后启动start_agent.bat，即可正常使用Agent服务。
+下载完先修改yuzhiboyo.py的api_key，路径等配置，语音功能需自行配置！请看下文介绍，然后启动start_agent.bat，即可正常使用Agent服务。
 
 ## 环境配置
 
