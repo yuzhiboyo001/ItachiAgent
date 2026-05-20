@@ -29,7 +29,7 @@ client = UapiClient("https://uapis.cn", token="your_uapi_token")
 
 下载地址：https://github.com/RVC-Boss/GPT-SoVITS
 
-### 2. 准备模型文件(整合包含有)
+### 2. 准备模型文件(上文度盘整合包含有)
 
 - SoVITS 权重：`SoVITS_weights_v2ProPlus/宇智波鼬plus_e8_s232.pth`
 - GPT 权重：`GPT_weights_v2ProPlus/宇智波鼬plus-e15.ckpt`
